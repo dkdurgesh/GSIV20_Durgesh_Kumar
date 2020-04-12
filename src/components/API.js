@@ -1,6 +1,4 @@
 let baseURL = 'https://api.themoviedb.org/';
-//https://api.themoviedb.org/3/movie/550?api_key=d436f1528135527ad00e653f3adfebe8
-let token = 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkNDM2ZjE1MjgxMzU1MjdhZDAwZTY1M2YzYWRmZWJlOCIsInN1YiI6IjVlOTE5OWU3YmVmYjA5MDAxYWJjZjllMSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.qmQzYCsLbf1JJCTrXFwS-O0v10kWJ0MEYDO32m6dkuE'
 let apiKey = 'api_key=d436f1528135527ad00e653f3adfebe8'
 
 export default class API {
